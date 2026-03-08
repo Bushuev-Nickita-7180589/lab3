@@ -20,7 +20,7 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="1102" height="631" alt="lab3_1_1" src="https://github.com/user-attachments/assets/7124b719-0fea-4be5-8fb2-1f2117564b1a" />
 
 ## Задача 2
 
@@ -41,7 +41,7 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="1106" height="618" alt="lab3_2_1" src="https://github.com/user-attachments/assets/eb8c8d9e-26d5-4538-857d-adb8dc36b752" />
 
 ## Задача 3
 
@@ -60,4 +60,6 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="1108" height="621" alt="lab3_3_1" src="https://github.com/user-attachments/assets/f9c74e2d-eea9-448d-968e-1ec0fd5fa20f" />
+<img width="1107" height="625" alt="lab3_3_2" src="https://github.com/user-attachments/assets/470fc2b4-0be0-4d9b-9502-634c2eed497a" />
+
